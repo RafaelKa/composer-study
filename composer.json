@@ -1,7 +1,7 @@
 {
     "name": "rafaelka/composer-study",
     "description": "Installs node.js inside Flows Data/Temporary/Binaries",
-    "type": "typo3-flow-package",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
