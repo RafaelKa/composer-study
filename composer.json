@@ -1,0 +1,12 @@
+{
+    "name": "rafaelka/composer-study",
+    "description": "This package does absolutely nothing! Its only for study!",
+    "type": "typo3-flow-package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafael Kähm",
+            "email": "rafael@kaehms.de"
+        }
+    ]
+}
