@@ -1,0 +1,25 @@
+{
+    "name": "rafaelka/composer-study",
+    "description": "Installs node.js inside Flows Data/Temporary/Binaries",
+    "type": "typo3-flow-package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rafael Kähm",
+            "email": "rafael@kaehms.de"
+        }
+    ],
+    "require": {
+        "typo3/flow": "*",
+        "mouf/nodejs-installer": "~1.0"
+    },
+    "extra": {
+        "mouf": {
+            "nodejs": {
+                "version": "~4.2",
+                "targetDir": "Data/Temporary/Binaries/RafaelKa.EmberApp/nodejs",
+                "forceLocal": true
+            }
+        }
+    }
+}
