@@ -16,7 +16,7 @@
     "extra": {
         "mouf": {
             "nodejs": {
-                "version": "~4.2",
+                "version": "5.4.1",
                 "targetDir": "Data/Temporary/Binaries/RafaelKa.EmberApp/nodejs",
                 "forceLocal": true
             }
