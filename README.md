@@ -1,7 +1,7 @@
 # Repo for hacking on composer functions and features
 
-This branch is for testing if `mouf/nodejs-installer` will correctly install Node.js 
-in `FLOW_PATH_ROOT/Data/Temporary/Binaries/RafaelKa.EmberApp/nodejs` directory.
+## This branch is for testing of `mouf/nodejs-installer` 
+Will mouf/nodejs-installer composer-plugin correctly install Node.js in `FLOW_PATH_ROOT/Data/Temporary/Binaries/RafaelKa.EmberApp/nodejs` directory?
 
 Check this directory after running 
 `composer require rafaelka/composer-study:dev-nodejs-installer` 
